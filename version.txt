@@ -1,0 +1,28 @@
+
+Qwench White 4.1
+
+################################################################################
+
+	Created in the distant future (the day of 15th April, 2011) after
+	the Qanda killed.
+
+	History:
+		2011/04/15    qwench.alpha
+		2011/04/18    qwench.beta
+		2011/04/25    qwench.blue.1.0
+		2011/04/29    qwench.white.2.0
+		2011/05/01    qwench.white.3.0
+		2011/05/02    qwench.white.3.2
+		2011/05/04    qwench.white.3.3
+		2011/05/08    qwench.white.3.4
+		2011/05/15    qwench.white.4.0
+
+	Source:
+		.css        4 files     991 lines
+		.js        15 files    4463 lines
+		.php       32 files    4745 lines
+		.sql        4 files     555 lines
+		.txt        2 files      34 lines
+		---------------------------------
+		total      57 files   10788 lines
+

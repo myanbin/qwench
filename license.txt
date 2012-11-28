@@ -1,0 +1,6 @@
+Qwench, a programmer Q & A web site
+
+Copyright (c) 2011, Winterdebin, licensed under The BSD License.
+All rights reserved.
+
+Text is available under a Creative Commons Attribution-ShareAlike 3.0 License.
