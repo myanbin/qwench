@@ -3,8 +3,8 @@
 // Database Details
 define('SERVERNAME','localhost');
 define('SERVERPORT','3306');
-define('DBUSERNAME','yourusername');
-define('DBPASSWORD','yourpassword');
+define('DBUSERNAME','root');
+define('DBPASSWORD','132502');
 define('DBNAME','qwench');
 
 Define('ANSWERS_PER_PAGE','10');

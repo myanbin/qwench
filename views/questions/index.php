@@ -23,7 +23,7 @@
 </div>
 <?php else:?>
 <div style="float:left">
-<div class="questionsgrid_status"<?php if($question['accepted'] == 1) { echo ' style="border-color:#ee2626"';}?>><span style="font-size:24px;color:#f90"><?php echo $question['answers'];?></span><br/><br/>个回答</div><div class="questionsgrid_status"><span style="font-size:24px;color:#555"><?php echo $question['votes'];?></span><br/><br/>个投票</div>
+<div class="questionsgrid_status"<?php if($question['accepted'] == 1) { echo ' style="border-color:#ee2626"';}?>><span style="font-size:24px;color:#f90"><?php echo $question['answers'];?></span><br/>个回答</div><div class="questionsgrid_status"><span style="font-size:24px;color:#555"><?php echo $question['votes'];?></span><br/>个投票</div>
 </div>
 <?php endif;?>
 
@@ -38,7 +38,7 @@
 <?php endforeach;?>
 </ul>
 <div class="questionsgrid_created" title="<?php echo datify($question['created']);?>">
-提问于<?php echo timeAgo(strtotime($question['created']));?>
+<?php echo timeAgo(strtotime($question['created']));?>
 </div>
 </div>
 
